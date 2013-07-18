@@ -1,4 +1,4 @@
-# Contributor: Yachi Lo <yaachi@gmail.com>
+# Maintainer: Yachi Lo <yaachi@gmail.com>
 pkgname=pxz-git
 _gitname=pxz
 pkgver=20130718.eb3bb6b
